@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="D365BC-BasicAL-HM-Assignment02-A">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 365852786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Property Caption</note>
+          <target>Kundeoversigt</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field Entry No. - Property Caption</note>
+          <target>Indgangsnr.</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field Customer No. - Property Caption</note>
+          <target>Kundenr.</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field Customer Name - Property Caption</note>
+          <target>Kundenavn</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field Source Code - Property Caption</note>
+          <target>Kildekode</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field Amount - Property Caption</note>
+          <target>Beløb</target>
+        </trans-unit>
+        <trans-unit id="Table 365852786 - Field 2578636657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LastRunDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EIE Customer Overview - Field LastRunDate - Property Caption</note>
+          <target>Sidste kørselsdato</target>
+        </trans-unit>
+        <trans-unit id="Page 2891532806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Data Types - Property Caption</note>
+          <target>Kursus kort</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expressions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Property Caption</note>
+          <target>Ekspression</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Control Input - Property Caption</note>
+          <target>Ekspression</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Control Value1 - Property Caption</note>
+          <target>Værdi 1</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Control Value2 - Property Caption</note>
+          <target>Værdi 2</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Control Output - Property Caption</note>
+          <target>Produktion</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Control Result - Property Caption</note>
+          <target>Resultat</target>
+        </trans-unit>
+        <trans-unit id="Page 2886458428 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Expressions - Action Execute - Property Caption</note>
+          <target>Udfør</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Property Caption</note>
+          <target>Udsagnskort</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Control Input - Property Caption</note>
+          <target>Input</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Control 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Control Difficulty - Property Caption</note>
+          <target>Vanskelighed</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Control Output - Property Caption</note>
+          <target>Produktion</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Control 494089240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Control Suggestion - Property Caption</note>
+          <target>Forslag</target>
+        </trans-unit>
+        <trans-unit id="Page 3756961517 - Control 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Statements Card - Control Level - Property Caption</note>
+          <target>Niveau</target>
+        </trans-unit>
+        <trans-unit id="Page 364986632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Armstrong - Property Caption</note>
+          <target>Armstrong-kort</target>
+        </trans-unit>
+        <trans-unit id="Page 1935078032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Customer Overview List - Property Caption</note>
+          <target>Liste over kundeoversigter</target>
+        </trans-unit>
+        <trans-unit id="Page 1935078032 - Action 3614118165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EIE Customer Overview List - Action Import Records - Property Caption</note>
+          <target>Importer poster</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4153147618 - Action 360998715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EIE Credit Limit Ext. - Action UpdateCreditLimit - Property Caption</note>
+          <target>Opdater kreditgrænse</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4153147618 - NamedType 1333961654" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Are you sure that you want to set the %1 to %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EIE Credit Limit Ext. - NamedType AreYouSureQst</note>
+          <target>Er du sikker på, at du vil indstille% 1 til% 2?</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4153147618 - NamedType 1760454550" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>The credit limit was rounded to %1 to comply with company policies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EIE Credit Limit Ext. - NamedType CreditLimitUpToDateTxt</note>
+          <target>Kreditgrænsen blev afrundet til% 1 for at overholde virksomhedens politikker.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 4153147618 - NamedType 2499247549" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>The credit limit is up to date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EIE Credit Limit Ext. - NamedType CreditLimitROundedTxt</note>
+          <target>Kreditgrænsen er ajour.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
